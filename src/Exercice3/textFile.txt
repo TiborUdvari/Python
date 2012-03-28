@@ -1,0 +1,3 @@
+This is a text file.
+I will be using this file for exercice3 of my python exercices.
+Hello world :)
